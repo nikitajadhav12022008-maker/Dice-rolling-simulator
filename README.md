@@ -5,33 +5,41 @@ This mini project simulates rolling a six-sided dice and generates a random numb
 -----------
 
 ###🚀 Features:
-Generates random number between 1 and 6
-Allows user to roll multiple times
-Simple and interactive CLI interface
+~Generates random number between 1 and 6
+~Allows user to roll multiple times
+~Simple and interactive CLI interface
 
 --------------
 
 ##🛠 Technologies Used:
-Python 3
+~Python 3
 
 ------------
 
 ##🧠 Concepts Used:
-random module
-Loops
-Conditional statements
-User input
+~random module
+~Loops
+~Conditional statements
+~User input
 
 -----------
 
 ##▶️ How to Run:
 Make sure Python is installed on your system
-Clone the repository or download the file
+Clone the repository or download the file.
 Run the program:
 ```bash
 python Dice_roller.py
 
 ------------
+
+##📁Project structure:
+Dice rolling simulator/
+|
+|_______Dice_roller.py
+|_______README.md
+
+-------------
 
 ##📌 Sample Output:
 Dice: 4
@@ -44,10 +52,10 @@ Roll again? (y/n): n
 ------------
 
 ##🔮 Future Improvements:
-Add two-dice mode
-Add dice ASCII art
-Keep score count
-Convert into GUI application
+~Add two-dice mode
+~Add dice ASCII art
+~Keep score count
+~Convert into GUI application
 
 ----------
 
