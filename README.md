@@ -25,13 +25,13 @@ Make sure Python is installed on your system
 Clone the repository or download the file.
 Run the program:
 ```bash
-python Dice_simulator.py
+python dice_simulator.py
 -----
 
 ##📁Project structure:
 Dice rolling simulator/
 |
-|_______Dice_simulator.py
+|_______dice_simulator.py
 |_______README.md
 ----
 
