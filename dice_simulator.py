@@ -1,4 +1,4 @@
-#python based dice rolling simulator:
+#Python based dice rolling simulator:
 #importing random module
 import random as rd
 #while loop running
