@@ -28,6 +28,14 @@ This mini project simulates rolling a six-sided dice and generates a random numb
 
 -----
 
+## 📁Project structure:
+
+- Dice rolling simulator
+- |_______dice_simulator.py
+- |_______README.md
+ 
+----
+
 ##▶️ How to Run:
 Make sure Python is installed on your system
 Clone the repository or download the file.
@@ -36,12 +44,7 @@ Run the program:
 python dice_simulator.py
 -----
 
-##📁Project structure:
-Dice rolling simulator/
-|
-|_______dice_simulator.py
-|_______README.md
-----
+
 
 ##📌 Sample Output:
 Dice: 4
