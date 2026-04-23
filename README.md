@@ -45,7 +45,16 @@ This mini project simulates rolling a six-sided dice and generates a random numb
 - Dice: 6
 - Roll again? (y/n): n
 
-------
+---
+
+## 🔮 Future Improvements:
+
+- Add two-dice mode
+- Add dice ASCII art
+- Keep score count
+- Convert into GUI application
+
+----
 
 ##▶️ How to Run:
 Make sure Python is installed on your system
@@ -55,16 +64,6 @@ Run the program:
 python dice_simulator.py
 -----
 
-
-
-
-
-##🔮 Future Improvements:
--Add two-dice mode
--Add dice ASCII art
--Keep score count
--Convert into GUI application
-----
 
 ##🙋‍♀️ Author:
 Nikita Jadhav
