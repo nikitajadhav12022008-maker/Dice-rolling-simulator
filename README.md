@@ -1,7 +1,9 @@
-##🎲 Dice Rolling Simulator (Python):
+## 🎲 Dice Rolling Simulator (Python):
+
 A simple command-line Dice Rolling Simulator built using Python.
 This mini project simulates rolling a six-sided dice and generates a random number between 1 and 6.
--------
+
+----
 
 ##🚀 Features:
 -Generates random number between 1 and 6
