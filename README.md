@@ -11,11 +11,13 @@ This mini project simulates rolling a six-sided dice and generates a random numb
 - Allows user to roll multiple times
 - Simple and interactive CLI interface
 
--------
+---
 
-##🛠 Technologies Used:
--Python 3
-------
+## 🛠 Technologies Used:
+
+- Python 3
+ 
+---
 
 ##🧠 Concepts Used:
 -random module
