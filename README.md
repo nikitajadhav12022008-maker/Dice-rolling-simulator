@@ -5,10 +5,12 @@ This mini project simulates rolling a six-sided dice and generates a random numb
 
 ----
 
-##🚀 Features:
--Generates random number between 1 and 6
--Allows user to roll multiple times
--Simple and interactive CLI interface
+## 🚀 Features:
+
+- Generates random number between 1 and 6
+- Allows user to roll multiple times
+- Simple and interactive CLI interface
+
 -------
 
 ##🛠 Technologies Used:
