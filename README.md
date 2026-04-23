@@ -56,16 +56,18 @@ This mini project simulates rolling a six-sided dice and generates a random numb
 
 ----
 
-##▶️ How to Run:
-Make sure Python is installed on your system
-Clone the repository or download the file.
-Run the program:
+## ▶️ How to Run:
+
+- Make sure Python is installed on your system
+- Clone the repository or download the file.
+- Run the program:
 ```bash
 python dice_simulator.py
------
 
+---
 
 ##🙋‍♀️ Author:
+
 Nikita Jadhav
 ----
 ⭐ If you like this project, don’t forget to star the repository!
