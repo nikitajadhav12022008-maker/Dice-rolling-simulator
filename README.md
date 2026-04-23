@@ -36,6 +36,17 @@ This mini project simulates rolling a six-sided dice and generates a random numb
  
 ----
 
+## 📌 Sample Output:
+
+- Dice: 4
+- Roll again? (y/n): y
+- Dice: 1
+- Roll again? (y/n): y
+- Dice: 6
+- Roll again? (y/n): n
+
+------
+
 ##▶️ How to Run:
 Make sure Python is installed on your system
 Clone the repository or download the file.
@@ -46,14 +57,7 @@ python dice_simulator.py
 
 
 
-##📌 Sample Output:
-Dice: 4
-Roll again? (y/n): y
-Dice: 1
-Roll again? (y/n): y
-Dice: 6
-Roll again? (y/n): n
-------
+
 
 ##🔮 Future Improvements:
 -Add two-dice mode
