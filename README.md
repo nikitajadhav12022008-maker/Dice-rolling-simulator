@@ -19,11 +19,13 @@ This mini project simulates rolling a six-sided dice and generates a random numb
  
 ---
 
-##🧠 Concepts Used:
--random module
--Loops
--Conditional statements
--User input
+## 🧠 Concepts Used:
+
+- random module
+- Loops
+- Conditional statements
+- User input
+
 -----
 
 ##▶️ How to Run:
