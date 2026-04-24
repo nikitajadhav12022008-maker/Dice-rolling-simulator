@@ -1,4 +1,4 @@
-#Python based dice rolling simulator:
+# Python based dice rolling simulator:
 #importing random module
 import random as rd
 #while loop running
@@ -7,6 +7,7 @@ while True:
     #conditional statements
     if(input("roll again? (y/n):") != 'y'):
         break
+        #=========end===========
 
 
 
